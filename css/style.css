@@ -774,7 +774,7 @@ a.w3_agile_google:hover {
 /*-- home --*/
 
 .img1 {
-    background: url(../images/frente1.jpeg) center no-repeat;
+    background: url(../images/pintado.jpg) center no-repeat;
     padding: 0;
     background-size: cover;
     position: relative;
@@ -1564,3 +1564,7 @@ p.copyright-w3ls a:hover {
 }
 
 /*--//responsive--*/
+.logo-serv{
+    height: 80px;
+    width: auto;
+}
