@@ -353,7 +353,7 @@ body {
 }
 
 .banner-top1 {
-    background: url(../images/2.jpg) no-repeat center;
+    background: url(../images/frente1.jpeg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -362,7 +362,7 @@ body {
 }
 
 .banner-top2 {
-    background: url(../images/bg1.jpg) no-repeat center;
+    background: url(../images/frente2.jpeg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -371,7 +371,7 @@ body {
 }
 
 .banner-top3 {
-    background: url(../images/1.jpg) no-repeat center;
+    background: url(../images/frente3.jpeg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -380,7 +380,7 @@ body {
 }
 
 .banner-top4 {
-    background: url(../images/bg4.jpg) no-repeat center;
+    background: url(../images/laboratorio.jpeg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -774,7 +774,7 @@ a.w3_agile_google:hover {
 /*-- home --*/
 
 .img1 {
-    background: url(../images/bg1.jpg) center no-repeat;
+    background: url(../images/frente1.jpeg) center no-repeat;
     padding: 0;
     background-size: cover;
     position: relative;
@@ -959,7 +959,7 @@ button.seri-w3ls:hover {
 }
 
 .contact {
-    background: url(../images/bg2.jpg) no-repeat center;
+    background: url(../images/contacto.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
