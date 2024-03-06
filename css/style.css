@@ -799,7 +799,7 @@ a.w3_agile_google:hover {
 }
 
 .img2 {
-    background: url(../images/bg4.jpg) center no-repeat;
+    background: url(../images/reparaciones.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -1567,4 +1567,9 @@ p.copyright-w3ls a:hover {
 .logo-serv{
     height: 80px;
     width: auto;
+}
+.logo-home{
+    width: 270px;
+    height: auto;
+    background-color: white;
 }
