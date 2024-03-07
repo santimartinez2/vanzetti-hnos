@@ -1377,7 +1377,8 @@ p.copyright-w3ls a:hover {
         left: 103px;
     }
     #toggle {
-        margin-top: 22px;
+        margin-top: 40px;
+        margin-left: 120px;
     }
     h3.title {
         font-size: 32px;
@@ -1589,7 +1590,7 @@ p.copyright-w3ls a:hover {
     width: auto;
 }
 .logo-home{
-    width: 200px;
+    width: 220px;
     height: auto;
     background-color: white;
 }
@@ -1600,7 +1601,7 @@ p.copyright-w3ls a:hover {
     transition: all 0.3s;
     backface-visibility: hidden;
     border-radius: 2px;
-    background-color: blue;
+    background-color: #275497;
 }
 header {
     position: absolute;
